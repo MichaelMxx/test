@@ -4,8 +4,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import unittest
 
-username = "DreamSunset"
-password = "mxx010103"
+# 密码
 
 class GitHubTest(unittest.TestCase):
     def setUp(self):
